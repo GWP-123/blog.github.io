@@ -1,0 +1,8 @@
+baseURL = 'https://david-ge.github.io/'
+languageCode = 'zh-CN'
+title = '我的博客'
+theme = 'paper'
+
+[params]
+  description = '又一个 Hugo 博客'
+  dateFormat = '2006-01-02'
