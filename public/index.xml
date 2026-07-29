@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>我的博客</title>
-		<link>http://localhost:1313/</link>
+		<link>http://localhost:1313/david-ge.github.io/</link>
 		<description>Recent content on 我的博客</description>
 		<generator>Hugo</generator>
 		<language>zh-CN</language>
@@ -10,6 +10,15 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Wed, 29 Jul 2026 16:07:44 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/david-ge.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/david-ge.github.io/posts/hello-world/</link>
+				<pubDate>Wed, 29 Jul 2026 16:07:44 +0800</pubDate>
+				<guid>http://localhost:1313/david-ge.github.io/posts/hello-world/</guid>
+				<description>&lt;p&gt;这是我的第一篇博客文章，使用 Hugo + GitHub Pages 搭建。&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

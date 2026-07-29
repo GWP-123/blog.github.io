@@ -1,4 +1,4 @@
-baseURL = 'https://david-ge.github.io/'
+baseURL = 'https://gwp-123.github.io/david-ge.github.io/'
 languageCode = 'zh-CN'
 title = '我的博客'
 theme = 'paper'
